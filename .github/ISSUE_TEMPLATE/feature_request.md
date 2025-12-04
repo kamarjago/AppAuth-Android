@@ -1,20 +1,20 @@
 ---
-name: 🚀 Feature Request
-about: Share ideas for new features
-labels: enhancement
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
-<!-- Thank your for your input! Before you submit your issue, please make sure you've searched https://github.com/openid/AppAuth-Android/issues for existing requests -->
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-### Feature Request
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-#### Motivation
-<!-- Why should this feature be implemented? What problem does it solve? -->
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-#### Description
-<!-- Describe your feature request in detail -->
-<!-- Please provide any code examples or screenshots of what this feature would look like -->
-<!-- Are there any drawbacks? Will this break anything for existing users? -->
-
-#### Alternatives or Workarounds
-<!-- Describe alternatives or workarounds you are currently using -->
+**Additional context**
+Add any other context or screenshots about the feature request here.
